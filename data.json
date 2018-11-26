@@ -1,0 +1,40 @@
+{
+  "customers": [
+    {
+      "id": 2,
+      "name": "Steve Smith",
+      "email": "ssmith@gmail.com",
+      "age": 25
+    },
+    {
+      "id": 3,
+      "name": "Sara Williams",
+      "email": "swilliams@gmail.com",
+      "age": 32
+    },
+    {
+      "id": 4,
+      "name": "Sam Marks",
+      "email": "sam@gmail.com",
+      "age": 50
+    },
+    {
+      "id": 5,
+      "name": "Jen Thomspon",
+      "email": "jen@gmail.com",
+      "age": 22
+    },
+    {
+      "name": "Susan Reeves",
+      "email": "sreeves@fma.com",
+      "age": 42,
+      "id": 6
+    },
+    {
+      "name": "Helena Douglas",
+      "email": "hdouglas@fma.com",
+      "age": 27,
+      "id": 7
+    }
+  ]
+}
